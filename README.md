@@ -19,7 +19,7 @@
 ### Sobre mim
 
 - Desenvolvedor full-stack, hoje construindo o **FitBilling** e o **Esquadrão Fit** no [Group-Desenvolvimento](https://github.com/Group-Desenvolvimento).
-- Gosto de produto: tela bonita, número certo e funil que converte.
+- Transformo regra de negócio em produto: interface caprichada, dados confiáveis e código fácil de manter.
 - Estudo Análise e Desenvolvimento de Sistemas na **PUC Minas**.
 - A maior parte do meu código está em repositórios privados; abaixo, o que estou construindo.
 
